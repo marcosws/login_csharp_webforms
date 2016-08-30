@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_pagina", "login_pagina\login_pagina.csproj", "{B3397407-84ED-4A94-92BE-456AC7BEEA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3397407-84ED-4A94-92BE-456AC7BEEA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3397407-84ED-4A94-92BE-456AC7BEEA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3397407-84ED-4A94-92BE-456AC7BEEA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3397407-84ED-4A94-92BE-456AC7BEEA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

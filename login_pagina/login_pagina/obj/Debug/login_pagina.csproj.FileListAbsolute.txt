@@ -1,0 +1,4 @@
+C:\LOGIN_CSHARP\login_pagina\login_pagina\bin\login_pagina.dll
+C:\LOGIN_CSHARP\login_pagina\login_pagina\bin\login_pagina.pdb
+C:\LOGIN_CSHARP\login_pagina\login_pagina\obj\Debug\login_pagina.dll
+C:\LOGIN_CSHARP\login_pagina\login_pagina\obj\Debug\login_pagina.pdb
